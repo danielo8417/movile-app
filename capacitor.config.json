@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "movile-app",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

@@ -1,0 +1,8 @@
+{
+  "name": "movile-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "0036383f"
+}
