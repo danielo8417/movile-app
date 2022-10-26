@@ -4,7 +4,7 @@ npm install -g @ionic/cli cordova-res<br>
 git clone https://github.com/danielo8417/movile-app.git/movile-app<br>
 cd movile-app <br>
 npm install <br>
-ionic serve<br>
+ionic serve<br><br><br>
 Options​<br>
 --ssl<br>
 Description	<br>
