@@ -2,6 +2,7 @@ import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar, IonCard, IonCardC
 import React from 'react';
 import ExploreContainer from '../components/ExploreContainer';
 import './Tab4.css';
+import img from './images/SaoPaulo.jpg';
 
 const Tab4: React.FC = () => {
   return (
@@ -20,7 +21,7 @@ const Tab4: React.FC = () => {
         <ExploreContainer name="Fotos"/>
         
     <IonCard>
-      <img alt="Silhouette of mountains" src="https://ionicframework.com/docs/img/demos/card-media.png" />
+      <img alt="Silhouette of mountains" src="SaoPaulo.jpg" />
       <IonCardHeader>
         <IonCardTitle>Card Title</IonCardTitle>
         <IonCardSubtitle>Card Subtitle</IonCardSubtitle>
