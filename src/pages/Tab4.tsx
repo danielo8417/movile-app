@@ -1,8 +1,18 @@
-import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar, IonCard, IonCardContent, IonCardHeader, IonCardSubtitle, IonCardTitle } from '@ionic/react';
+import { 
+         IonContent, 
+         IonHeader, 
+         IonPage, 
+         IonTitle, 
+         IonToolbar, 
+         IonCard, 
+         IonCardContent, 
+         IonCardHeader, 
+         IonCardSubtitle, 
+         IonCardTitle 
+} from '@ionic/react';
 import React from 'react';
 import ExploreContainer from '../components/ExploreContainer';
-import './Tab4.css';
-import img from './images/SaoPaulo.jpg';
+
 
 const Tab4: React.FC = () => {
   return (
