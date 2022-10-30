@@ -13,7 +13,6 @@ import {
 import React from 'react';
 import ExploreContainer from '../components/ExploreContainer';
 
-
 const Tab4: React.FC = () => {
   return (
     <IonPage>
@@ -32,7 +31,7 @@ const Tab4: React.FC = () => {
         
         <IonCardContent className='card-background-image'>
 
-<IonCard>
+<IonCard style={{backgroundColor:"wheat"}}>
   <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6c/16/ce/caption.jpg?w=1200&h=-1&s=1"/>
   <div className="card-title">São Paulo</div>
   <div className="card-subtitle">41 Listings</div>
